@@ -1,4 +1,4 @@
-# COMP 560 Final Project
+# Text Classification Method Analysis
 #### Connor Morin, Annie Pi, Christina Yi, Jiangyuan Yuan, Jonathan Zhao
 
 ## Abstract/Midterm Report:

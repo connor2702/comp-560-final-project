@@ -8,4 +8,4 @@ This project presents a comparative analysis of diverse text processing methodol
 Code for each method and their evaluations on the IMDb dataset are located in the `sentiment_analysis` folder, where each method has a corrresponding Jupyter Notebook under a file name indicating which method was evaluated in that Notebook. Similarly, the code for evaluations on the Newsgroups dataset is located in the `topic_classification` folder.
 
 ## Report:
-Both the slideshow and final report can be located as PDFs.
+Both the slideshow and final report can be located as PDFs with corresponding file names in the current directory.
